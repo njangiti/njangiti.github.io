@@ -8,9 +8,9 @@ My work spans developing machine learning models, automating ETL pipelines, and 
 Constantly curious and eager to grow, I stay up to date with advancements in analytics and tech to deliver the best solutions. Let's explore the data-driven future together!
 
 ## Table of Contents
-- [About](https://github.com/njangiti/njangiti.github.io/blob/main/README.md?plain=1)
+- [About](https://github.com/njangiti/njangiti.github.io/blob/main/README.md#about)
   
-- [Portfolio Projects](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/njangiti/njangiti.github.io/blob/main/README.md#about#portfolio-projects)
    - SQL
      - [Covid-19 Data Exploration](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
      - [Nashville Housing Data Cleaning](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
