@@ -8,7 +8,7 @@ My work spans developing machine learning models, automating ETL pipelines, and 
 Constantly curious and eager to grow, I stay up to date with advancements in analytics and tech to deliver the best solutions. Let's explore the data-driven future together!
 
 ## Table of Contents
-- [About](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/njangiti/njangiti.github.io/blob/main/README.md?plain=1)
   
 - [Portfolio Projects](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
    - SQL
