@@ -7,7 +7,7 @@ My work spans developing machine learning models, automating ETL pipelines, and 
 
 Constantly curious and eager to grow, I stay up to date with advancements in analytics and tech to deliver the best solutions. Let's explore the data-driven future together!
 
-## Table of Contents
+<!--## Table of Contents
 - [About](https://github.com/njangiti/njangiti.github.io/blob/main/README.md#about)
   
 - [Portfolio Projects](https://github.com/njangiti/njangiti.github.io/blob/main/README.md#about#portfolio-projects)
@@ -88,3 +88,6 @@ This section contains a list of completed projects as well as a brief descriptio
 ## Contact
 - Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
 - Email: ronishahill@live.com
+
+
+-->
